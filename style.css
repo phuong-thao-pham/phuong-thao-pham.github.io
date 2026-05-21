@@ -55,8 +55,8 @@ a:hover {
 
 .header-photo {
   flex-shrink: 0;
-  width: 140px;
-  height: 140px;
+  width: 200px;
+  height: 300px;
   border-radius: 50%;
   object-fit: cover;
   object-position: top;
